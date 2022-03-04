@@ -4,7 +4,7 @@ I am a Computer Science(AI ML) enginnering Student who love to code.
 
 ### Social media
 
-<a href="https://www.instagram.com/aman_saxena_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://github.com/Aman16-ai"><img alt="LinkedIn" src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a> <a href="https://www.instagram.com/aman_saxena_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/aman-saxena-766a75208"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
 
 ### Technical Skills
 
