@@ -26,6 +26,8 @@ Android Development | Web development | Competitive Programming | Open Source Co
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman16-ai" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman16-ai&show_icons=true&theme=tokyonight&layout=compact)
+
+</div>
 
 </div>
