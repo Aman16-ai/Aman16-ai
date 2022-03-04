@@ -21,10 +21,11 @@ Android Development | Web development | Competitive Programming | Open Source Co
 <img  src="https://github-readme-stats.vercel.app/api?username=Aman16-ai&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aman16-ai&theme=tokyonight" width="48%" >
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman16-ai" />
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aman16-ai.Aman16-ai)
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman16-ai" />
 
 </div>
