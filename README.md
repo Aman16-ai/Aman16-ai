@@ -14,7 +14,7 @@ I am a Computer Science(AI ML) engineering Student who love to code.
 
 ### My Interests
 
-Android Development | Web development | Competitive Programming | Open Source Contribution
+Android Development | Web development | Machine Learning | Competitive Programming | Open Source Contribution
 
 ### My Stats
 
